@@ -51,4 +51,4 @@ Content-Type: application/json
 DELETE {{base_url}}/repositories/ec151510-b84a-4277-a738-eb5d94b8f284
 
 ### should be able to give a like to the repository
-POST {{base_url}}/repositories/8739bf60-0612-4c77-baef-112aca1058fb/like
+POST {{base_url}}/repositories/ec151510-b84a-4277-a738-eb5d94b8f284/like
