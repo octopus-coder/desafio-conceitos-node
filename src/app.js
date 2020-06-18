@@ -34,7 +34,6 @@ app.put("/repositories/:id", (request, response) => {
   const repository = repositories[repoIndex];
   repositories[repoIndex] = { ...repository, title, url, techs};
   return response.json(repositories[repoIndex]);
-  // TODO
 });
 
 // DELETE / repositories /: id: A rota deve deletar o repositório com o id presente nos parâmetros da rota;

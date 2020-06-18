@@ -17,7 +17,7 @@ Content-Type: application/json
 GET {{base_url}}/repositories
 
 ### should be able to update repository
-PUT {{base_url}}/repositories/c85129e5-c600-447c-827a-bc0c24e65991
+PUT {{base_url}}/repositories/c5853c9e-2512-4af5-ae84-1ffe47a113a9
 Content-Type: application/json
 
 {
